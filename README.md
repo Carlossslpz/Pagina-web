@@ -39,12 +39,12 @@ Para la informacion, hay alguna que es real, como la formacion y el nombre pero 
 
 Desde el principio el tema lo tenia claro queria que fuera Star Wars porque era mi saga favorita, pero no sabia que estilo darle, puesto que queria que para este trabajo cada pagina tuviera un estilo distinto, asi que un dia buscando ropa para navidades, vi que muchas paginas tenian un carusel para sus productos, lo cual me venia perfecto puesto que yo iba a hablar sobre mis personajes favoritos de la saga y pense que cada personaje iba a ser un elemento de este.
 
-Primero copie el HTML y CSS de una de las paginas pero al intentar editarlo no me enteraba de nada, asi que busque un tutorial de youtube y asi lo saque de manera que entendi lo que hacia y como.
+Primero copie el HTML y CSS de una de las paginas pero al intentar editarlo no me enteraba de nada, asi que busque un tutorial de youtube y asi lo saque de manera que entendi lo que hacia y como.El uncio problea aqui, fue al intentar poner las imagenes con links , que era como que el contenedor estaba por encima de ellas y no dejaba pincharlas, por tanto me puese a investigar y vi que en CSS definias como la altura de las imagenes, asi que lo cambie y ya funcionaba
 
 
 -Red 
 
-Para esta pagina sabia que habia que hacer, pero no sabia que estilo darle por lo que solo puse los links de las paginas y ya pensaria que iba a hacer con CSS.
+Para esta pagina sabia que habia que hacer, pero no sabia que estilo darle por lo que solo puse los links de las paginas con sus imagenes y ya pensaria que iba a hacer con CSS.
 
 
 -Index
@@ -67,9 +67,9 @@ Como yo empeze a hacer el CSS antes de que lo vieramos en clase, tuve que ver vi
 
 El problema vino cuando el profesor dijo que tenia que ser solo un documento CSS porque hasta entonces yo tenia 3 documentos CSS para tres de las paginas.
 
-Por lo que lo unifique todo en uno, pero yo al hacer el HTML no habia especificado ni "class" ni "id" por lo que al juntarlo todo fue un descontrol, puesto que ademas como he dicho antes queria que cada pagina tuviera su propio estilo, asi que tuve que revisar el codigo entero, poniendo "class"  e "id" para que cada seccion tuviera su estilo y no se solpara con los de otras paginas ademas de poner numerosos <div> porque vi que hacian mas facil la programacion de CSS
+Por lo que lo unifique todo en uno, pero yo al hacer el HTML no habia especificado ni "class" ni "id" por lo que al juntarlo todo fue un descontrol, puesto que ademas como he dicho antes queria que cada pagina tuviera su propio estilo, aunque fuera solo cambiar el fondo y el color del texto  asi que tuve que revisar el codigo entero, poniendo "class"  e "id" para que cada seccion tuviera su estilo y no se solapara con los de otras paginas ademas de poner numerosos <div> porque vi que hacian mas facil la programacion de CSS
 
-Aqui he tenido varios problemas que en relaidad era el mismo; en HTML o no puse "class" e "id" o puse el mismo para varias paginas y CSS no hacia lo que queria o ponia  "class" o "id" mal donde no tocaba y CSS no hacia nada
+Aqui he tenido varios problemas que en realidad era el mismo; en HTML o no puse "class" e "id" o puse el mismo para varias paginas y CSS no hacia lo que queria o ponia  "class" o "id" mal donde no tocaba y CSS no hacia nada
 
 Ademas para el CSS he usado arial porque me gusta y el padding y margin los he ajustado para cada pagina en funcion de como me parecia mas bonito.
 
@@ -97,7 +97,7 @@ Como me di cuenta que se veia poco intuitivo lo de las fotos, investigue e hice 
 
 -Tema
 
-Para esta parte vi un tutorial en youtube pero para el fondo como era star wars, puse un gitf con fondo de estrellas y los textos en español, luego el carusel tenia de principal la ficha tecnica y la sinospsis, despues cada bloque era un personaje con mi opinion de ellos y una imagen, auqnue al volver a ver la normativa, vi que habia que incluir enlaces por tanto cree un nuevo elemento del carrusel y le puse imagenes con links a canales de youtube de Star Wars, pero no funcionabam porque los divs en los que estaban albergados estaban como por encima asi que despues de estar casi 30 mins probando cambios en el CSS y el HTML, di con el comando bueno y por fin lo consegui
+Para esta parte vi un tutorial en youtube, pero para el fondo como era star wars, puse un gitf con fondo de estrellas , luego el carusel tenia de principal la ficha tecnica y la sinospsis, despues cada bloque era un personaje con mi opinion de ellos y una imagen, auqnue al volver a ver la normativa, vi que habia que incluir enlaces por tanto cree un nuevo elemento del carrusel y le puse imagenes con links a canales de youtube de Star Wars, pero no funcionabam porque los divs en los que estaban albergados estaban como por encima asi que despues de estar casi 30 mins probando cambios en el CSS y el HTML, di con el comando bueno y por fin lo consegui
 
 
 -Sobre mi 
