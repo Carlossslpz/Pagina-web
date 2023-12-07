@@ -144,6 +144,14 @@ button:hover {
 
 
 
+
+
+
+
+
+
+
+
 /* Esto es para la pagina de gracias */
 
 .gracias-message {
@@ -162,6 +170,12 @@ body.gracias{
   background-image: url('../Imagenes/gracias.gif');
   background-size: cover; 
   background-position: center;
+
+
+
+
+
+
   
 }
 
@@ -190,7 +204,12 @@ body.tema{
   vertical-align: top; 
 }*/
 
+.bloques{
 
+  text-align: center;
+  color: #ff3bbe;
+
+}
 
 #imagen {
   width: 90%; 
