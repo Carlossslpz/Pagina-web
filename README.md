@@ -17,7 +17,7 @@ Al principio iba a crear la pagina index, pero no tenia claro como queria que fu
 -Contacto
 
 Para este pagina, lo primero que hice, fue copiar el formulario de contacto que hay en los apuntes para ver como quedaba y vi que quedaba chulo pero no me terminaba de convencer pusto que era muy simple y queria poner mas tipos de seleciones checkeo, multiocpion, desarrollo, asi que utilze un codigo de HTML que ya tenia hecho de una pagina que hice para el colegio hece un par de años, por lo que  de ahi saque el codigo de las preguntas que van a partir del correo electronico.
-Por ultimo aunque esas respuestas, no se iban a almacenar en ningun sitio, decidi poner un boton que simulara como que esas respuestas habian sido enviadas, para ello, cree una pagina llamada gracias y le puse un texto que decia gracias por el feedback y programe el boton para que cuando se le diera, abriera esa pagina ue una nueva pestaña para esto ultimo investigue en internet como se hacia
+Por ultimo aunque esas respuestas, no se iban a almacenar en ningun sitio, decidi poner un boton que simulara como que esas respuestas habian sido enviadas, para ello, cree una pagina llamada gracias y le puse un texto que decia gracias por el feedback y programe el boton para que cuando se le diera, abriera esa pagina un una nueva pestaña para esto vi en los apuntes como se hacia 
 
 
 -Fundamentos
@@ -35,11 +35,13 @@ Al principio no tenia claro que poner aqui, hasta que el profesor dijo que esto 
 
 Para la informacion, hay alguna que es real, como la formacion y el nombre pero otros que son inventados por temas de privacidad, luego vi que habia que poner redes sociales y para que se viera mas bonito puese imagenes con links cada imagen era el logo de la red social.
 
+Aqui mas que un problema,me surgio una duda, ya que la tarea, exigia un archivo .cv pero yo habia implementado el CV directamente en la pagina, asi que le pregunte al profesor si esto era correcto y me dijo que si que le valia 
+
 -Tema
 
 Desde el principio el tema lo tenia claro queria que fuera Star Wars porque era mi saga favorita, pero no sabia que estilo darle, puesto que queria que para este trabajo cada pagina tuviera un estilo distinto, asi que un dia buscando ropa para navidades, vi que muchas paginas tenian un carusel para sus productos, lo cual me venia perfecto puesto que yo iba a hablar sobre mis personajes favoritos de la saga y pense que cada personaje iba a ser un elemento de este.
 
-Primero copie el HTML y CSS de una de las paginas pero al intentar editarlo no me enteraba de nada, asi que busque un tutorial de youtube y asi lo saque de manera que entendi lo que hacia y como.El uncio problea aqui, fue al intentar poner las imagenes con links , que era como que el contenedor estaba por encima de ellas y no dejaba pincharlas, por tanto me puese a investigar y vi que en CSS definias como la altura de las imagenes, asi que lo cambie y ya funcionaba
+Primero copie el HTML y CSS de una de las paginas pero al intentar editarlo no me enteraba de nada, asi que busque un tutorial de youtube y asi lo saque de manera que entendi lo que hacia y como.El uncio problema aqui, fue al intentar poner las imagenes con links , lo que pasaba es que el contenedor estaba por encima de ellas y no dejaba pincharlas, por tanto me puese a investigar y vi que en CSS definias como la altura de las imagenes, asi que lo cambie y ya funcionaba
 
 
 -Red 
