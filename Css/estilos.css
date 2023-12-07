@@ -318,6 +318,7 @@ body.star {
 
 .star h1, .star h2 {
   margin: 10px 0;
+  text-align:center;
   
 }
 
@@ -333,7 +334,9 @@ body.star {
   text-align: center;
 }
 
-
+.lista2{
+ text-align: center;
+}
 
 #canales-contenedor{
 
@@ -354,7 +357,8 @@ body.star {
   transition: transform 0.3s ease-in-out;
   position: relative;
   z-index: 9999;
-  margin-right: 50px;
+  margin: 50px;
+  
 
  
   }
