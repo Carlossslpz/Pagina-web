@@ -305,7 +305,7 @@ body.star {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  
   
 }
 
@@ -327,6 +327,13 @@ body.star {
   align-self: center;
   
 }
+
+
+.tit{
+  text-align: center;
+}
+
+
 
 #canales-contenedor{
 
