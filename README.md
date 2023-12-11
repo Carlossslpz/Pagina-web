@@ -99,7 +99,7 @@ Como me di cuenta que se veia poco intuitivo lo de las fotos, investigue e hice 
 
 -Tema
 
-Para esta parte vi un tutorial en youtube, pero para el fondo como era star wars, puse un gitf con fondo de estrellas , luego el carusel tenia de principal la ficha tecnica y la sinospsis, despues cada bloque era un personaje con mi opinion de ellos y una imagen, auqnue al volver a ver la normativa, vi que habia que incluir enlaces por tanto cree un nuevo elemento del carrusel y le puse imagenes con links a canales de youtube de Star Wars, pero no funcionabam porque los divs en los que estaban albergados estaban como por encima asi que despues de estar casi 30 mins probando cambios en el CSS y el HTML, di con el comando bueno y por fin lo consegui
+Para esta parte vi un tutorial en youtube, pero para el fondo como era star wars, puse un gitf con fondo de estrellas , luego el carusel tenia de principal la ficha tecnica y la sinospsis, despues cada bloque era un personaje con mi opinion de ellos y una imagen, aunque al volver a ver la normativa, vi que habia que incluir enlaces por tanto cree un nuevo elemento del carrusel y le puse imagenes con links a canales de youtube de Star Wars, pero no funcionabam porque los divs en los que estaban albergados estaban como por encima asi que despues de estar casi 30 mins probando cambios en el CSS y el HTML, di con el comando bueno y por fin lo consegui
 
 
 -Sobre mi 
